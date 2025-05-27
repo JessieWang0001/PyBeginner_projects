@@ -25,6 +25,12 @@ The process to work on this small machine learning project follows the steps bel
 - Additional: 
     + Save the trained model for future loading
     + Plot the decision tree
+    
+# Project 3: Build a website with the Django framwork
+
+Django is a high-level Python web framework that enables you to build robust, secure, and scalable web applications quickly and with clean, maintainable code. The Motto of Django is: “The web framework for perfectionists with deadlines.”
+
+This is the website we built using Django framwork: [Pyshop](http://127.0.0.1:8000/products/). This website also haev an [admin page](http://127.0.0.1:8000/admin/) where we can login. 
 
 
 
